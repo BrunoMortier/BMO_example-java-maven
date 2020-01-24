@@ -14,6 +14,12 @@
   </properties>
 
   <dependencies>
+  <!-- https://mvnrepository.com/artifact/com.srcclr/srcclr-maven-plugin -->
+  <dependency>
+      <groupId>com.srcclr</groupId>
+      <artifactId>srcclr-maven-plugin</artifactId>
+      <version>3.1.11</version>
+  </dependency>
 
     <dependency>
       <groupId>org.apache.struts</groupId>
